@@ -1,8 +1,6 @@
-*.class
-*.iml
-.idea
+.*
 target
-# Package Files #
-*.jar
-*.war
-*.ear
+bin
+.*\.iml
+.*\.orig
+cucumber.html
