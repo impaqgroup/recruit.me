@@ -1,0 +1,3 @@
+rootProject.name = "recruit-me"
+
+include "recruit-me-core"

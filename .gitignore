@@ -1,6 +1,7 @@
 .*
 target
 bin
+build
 .*\.iml
 .*\.orig
 cucumber.html
