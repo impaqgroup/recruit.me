@@ -2,6 +2,6 @@
 target
 bin
 build
-.*\.iml
-.*\.orig
+*.iml
+*.orig
 cucumber.html
