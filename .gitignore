@@ -1,6 +1,6 @@
 .*
 target
 bin
-.*\.iml
-.*\.orig
+*.iml
+*.orig
 cucumber.html
